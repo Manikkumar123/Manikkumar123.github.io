@@ -7,4 +7,5 @@
 | 15/07/2024 | Dr Randhir Singh | Helped us to create our website on github to create activity table on daily basis |
 | 15/07/2024 | Mr. Soni Goyal | taught us to give your 100%, and gave lecture on 4 rules to follow in 4 years of engineering |
 | 15/07/2024 | Pancham jai singh gill | taught us about body language and gave info about SAE |
+| 16/07/2024 | Mrs. manisha | held English quiz in the class by creating several teams |
 
