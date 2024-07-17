@@ -9,3 +9,4 @@
 | 15/07/2024 | Pancham jai singh gill | taught us about body language and gave info about SAE |
 | 16/07/2024 | Mrs. manisha | held English quiz in the class by creating several teams |
 | 17/07/2024 | Dr. Sukhminder Singh | Taught us differentiation |
+| 17/07/2024 | Mrs. Nisha | took our first UHV class and also we gave written english proficieny test |
