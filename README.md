@@ -14,3 +14,4 @@
 | 18/07/2024 | Our senior Sumit | Gave us some insights and help us to know more about college and how to study for the first year |
 | 18/07/2024 | Dr. Harvinder singh | Gave information about NCC |
 | 18/07/2024 | Mr. Jasvir singh grewal | Gave information about NSS |
+| 19/07/2024 | -------- | **Kanwadeep kaur** mam took first session in the auditorium and told the students to build soft skills apart from the basic hard skills like communication, personality development etc. after that **Dr. Jaswinder singh** taught us science lesson with practicals, Lastly we visited our computer science department and had a look at the server room of the college |
