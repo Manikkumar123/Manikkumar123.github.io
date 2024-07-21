@@ -111,12 +111,3 @@ nav ul li a:hover{
     height: 600px;
     width: 600px;
 }
-
-.image:hover .shape{
-    bottom: 30px;
-    size: 2em;
-}
-
-.image:hover .myself{
-    left: 45%;
-}
